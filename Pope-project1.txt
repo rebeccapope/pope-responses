@@ -1,0 +1,54 @@
+Rebecca Pope
+TECM 5191
+Project 1
+
+Introduction:
+I wanted to determine the correlation between skills listed in job ads for technical writers and what skills technical writers working in the field need to do their job. I interviewed five technical communicators via email, Twitter, and a blog post to find what skills and tools they used the most. The survey questions and the contact information for my sources are listed after my conclusion. For the job ads, I analyzed the text of approximately 180 job ads using AntConc.
+
+Methods:
+Our class created a repository of technical writing job ads by copying text from ads on various job hunting websites and pasting the text into one document. The resulting corpus contained text from approximately 180 job ads. I then analyzed the corpus for common words and phrases using AntConc.
+To get information about what skills working technical writers use, I interviewed four technical writers and one technical editor. I first sent a set of seven questions to Tom Johnson via private message on Twitter, who then posted the questions on his blog for others to answer in the comments section. I had three people respond to the blog post. I also got in contact with Adrianne Yule through a mutual friend. I compared their answers to the seven questions and then with the findings from the corpus.
+
+Findings from interviews:
+I had a high correlation between answers from the respondents. All but one respondent named “being able to learn or to teach yourself a new skill” as the most vital technical skill they have. Everyone agreed that being able to teach yourself new technical skills is invaluable as a technical communicator. I had one respondent, Adrianne Yule, point out that companies rarely provide training for specific tools. A couple of respondents included being able to research how to use a tool or to troubleshoot problems under the umbrella of being able to learn skills on your own.
+All respondents defined digital literacy as a person’s level of tech savvy and said that it influenced how they developed their products in that they keep their audiences’ level of digital literacy in mind as they write. I thought it interesting that even though about half of my respondents said that they either hadn’t heard the term “digital literacy” before or were unfamiliar with it, they all responded with very similar answers.
+I had some variation in the tools my respondents use in their work and what ones they want to learn to further their careers. Most listed Adobe design software and the Microsoft Office suite as often-used tools, but some listed less mainstream tools like version control software or proprietary tools they use within their employer’s intranet. Several people said they used HTML and CSS or they were looking to learn them for future projects.
+
+Findings from corpus:
+As expected from a corpus of job openings for technical writers, documentation had a high hit count at 344. Phrases including documentation were “documentation for” with 35 counts, and “technical documentation” with 8 counts. “Documentation for” tends to be followed by products (applications, engineering processes, software, etc.) or a specific audience (internal, customers, software developers, etc.).
+Another common term was content with 334 hits. The most common phrase using the term was “content management” with 27 hits, with “content management system(s)” comprising 18 of those. The phrase “content for” had similar contexts to “documentation for” in that content was aimed at certain audiences, but the context also referred to platforms (web, white papers, mobile, etc.).
+“Team” had 247 hits with 55 of those including the phrase “a team.” In context, postings wanted people “willing to work in a team,” to “head/lead a team,” or to be flexible enough to work both in a team or individually depending on the project. “Team members” showed up 22 times in similar contexts to “a team.”
+I used the interviews to look for key phrases and terms. “Ability to learn” showed up 11 times, all in the context of being able to learn new tools and technology by oneself. Along the same lines, “ability to manage” showed up 21 times in the context of applicants must be able to manage writing tasks; multiple projects, priorities, or tasks at the same time; documentation; a high workload; and prioritize said projects or tasks.
+I used the responses from my interviews to guide my search for specific tools. Microsoft or MS Office showed up 47 times, which was the same as HTML, but less than Adobe at 68 hits. I also found Google mentioned 20 times and CSS 18 times in the corpus. Though two of my respondents said they used JIRA, a type of version control software, there was only one instance of it in the corpus. 
+
+Discussion:
+I’m not surprised that the results from my interviews differed from my corpus analysis. My experience with job hunting and job ads leads me to believe that the people writing the ads don’t work in the hiring department. Managers tend to write up a list of skills their “dream applicant” should possess rather than the skills the applicant will most use in the position. I also find the grammar and design of many job postings to be so terrible no self-respecting technical writer would want them published publicly.
+I was surprised that being able to learn on one’s own had such a low hit count within the corpus. Based on my interviews, “ability to learn” should at least have shown up as many times as Microsoft Office or the Adobe suite. Perhaps employers think that being able to learn and teach oneself new technology or tools is so obvious a skill that it doesn’t need mentioning in a job ad. However, with that logic, I would think that with Office’s proliferation throughout the business community being able to use Word or Excel should be a given and not warrant mentioning in job ads.
+I was surprised that applications in the Adobe design suite were mentioned more often than Microsoft Office. That may be due to my previous career experience in chemistry laboratories, or that I didn’t realize how important photo editing and design software was to technical writing. I’ve worked with MS Office for as long as I can remember, and the companies I worked for didn’t want to spend money on extra design software if employees could find ways to force Office to do the design work.
+I found it interesting that given the prevalence of teams and teamwork in the corpus I had only one respondent mention it. My source Adriane Yule works with engineers “translating” their documentation into non-technical language for non-engineering audiences. My other sources didn’t give much information as to the structure of their workplace; this is probably due to the questions I asked of them.
+Though I had a couple respondents mention version control software, most didn’t mention content management as a vital skill. Based on the corpus analysis, more than two respondents should have mentioned content management or content management systems. Perhaps the respondents felt that with the creation of content, being able to manage said content should be obvious.
+
+Conclusion:
+Based on these findings, I don’t believe that job ads are a good measure to find out what tools and skills are necessary in the technical communication industry. The people who work or have worked in the positions don’t write Job ads, so actual technical communicators have information that is more realistic as to the skills and tools necessary for doing the job. However, because companies use computer algorithms to sort through resumes, technical communicators need to know what skills to put on their resumes when applying to job openings.
+We read several different approaches to this type of research in class: Lanier (2009); Rainey, Turner, and Dayton (2005); and Spyridakis (2015). None of them agreed much, except that technical communicators need to stay relevant and keep adding skills to their repertoire. When any of them interviewed people in the field, it was a small pool. A smaller pool of information tends to skew data so that it isn’t an accurate representation of the larger picture. With only five interviewees, I have the same problem.
+I think if I had to redo this research, I would retool my first survey question to be more specific. Instead of asking respondents what their current job title is, I would ask what their top five specific job duties are (e.g. creating content for company website) to give a context for their most used tools. “Technical writer” and “technical editor” are job titles that can describe very different job duties depending on the company.
+Another idea for further research would be to compile all the class responses from all the interviewees into a corpus. That way we have a similarly large pool of information for the interviews compared to the job ads. With more data, we could have a more representative sample of the technical communication field as a whole.
+
+Survey questions:
+1. What is your current job title?
+2. What are your most used tools? (Ex: Office, Adobe, etc.)
+3. What is your definition of digital literacy and how does it relate to your job?
+4. What is the most important technical skill you possess?
+5. How valuable is being able to teach yourself new technical skills?
+6. What technical skill do you most want to learn or expand on to better help you in your job?
+7. What technical skill were you surprised to find is necessary to your job?
+
+Survey participants:
+* Melanie Albrecht, responded to blog post at http://idratherbewriting.com/2015/09/12/survey-about-tech-writing-tools-processes-skills/
+* Sara Buchanan, responded to blog post at http://idratherbewriting.com/2015/09/12/survey-about-tech-writing-tools-processes-skills/
+* Tom Johnson, messaged on Twitter
+tomjohnson1492@gmail.com, http://t.co/HIJq8XuaAd
+* Amber White, responded to blog post at http://idratherbewriting.com/2015/09/12/survey-about-tech-writing-tools-processes-skills/ 
+amberleigh164@gmail.com
+828-808-7192
+* Adrianne Yule, contacted through email: Adrianne.yule@gmail.com
