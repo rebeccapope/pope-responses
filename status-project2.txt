@@ -1,0 +1,5 @@
+I haven't made any progress since last class on my project. I at least have the CSS, XSLT, and XML documents all talking to one another. At the end of last week's class I started playing around with the style sheet to see what different styles looked when applied. 
+
+I'd like to be able to make my data into a sortable table. That requires Java, right? How difficult is it to learn Java? I don't have any experience with it.
+
+For the presentation aspect of the project, can I demonstrate my data base for the class and talk about why I chose the method I did for marking up the data? Or am I required to use PowerPoint? I'm not a huge fan of reading from slides, but I want to get a better presentation grade than I got on the last project.
