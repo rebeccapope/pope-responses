@@ -1,0 +1,17 @@
+/* Global Styles */
+table {border-collapse: collapse}
+p {font-size: 14px;
+	font-family: serif;}	
+h1 {font-size: 60px;
+	font-family: sans-serif;
+	color: #470047}	
+th {font-size: 20px;
+	font-family: sans-serif;
+	background-color: #660066;
+	color: white;
+	padding: 3px 6px 3px 6px}
+td {font-size: 16px;
+	font-family: serif;
+	padding: 3px 6px 3px 6px}	
+tr:nth-child(even) {background-color: white}
+tr:nth-child(odd) {background-color: #A366A3}
