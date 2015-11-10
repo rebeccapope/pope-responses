@@ -1,0 +1,68 @@
+<?xml version="1.0"?>
+<article>
+<title>Setting up and using the Mail app on the Microsoft Surface</title>
+<subtitle>Use the Mail app to read and respond to email messages from your email accounts.</subtitle>
+<add_email><h2>Add and remove email accounts</h2>
+	<note><ul>
+	<li>If you signed in to your Surface with a Microsoft account, your mail account is already set up. You can then add other accounts from Outlook, Gmail, AOL, Yahoo!, and even your work email (Exchange ActiveSync).</li>
+	<li>If you signed in to your Surface with a local account, your mail account isn’t set up yet. You’ll need to add an account using an email address to begin using Mail. After you create the first email account, you can add other accounts. </li>
+	<li>You’ll need your user name (email address) and password to set up most email accounts. In some cases, you’ll need to provide more info, which you can usually find on your email account’s website. </li>
+	</ul></note>
+	To add an email account:
+	<ol>
+	<li>Go to Start Windows logo, and select Mail.</li>
+	<li>In the lower-left corner of the Mail app, select Settings Mail settings icon.
+Settings appear in a pane along the right edge of the Mail app window. </li>
+	<li>Under Settings, select Accounts > Add account, choose the type of account you want to add, and follow the on-screen instructions. </li>
+	<li>Repeat Steps 2 and 3 for each email account you want to add.</li>
+		</ol>
+	To remove an email account from the Mail app:
+	<ol><li> 	In the Mail app, select Settings > Accounts.</li>
+	<li>Select the account you want to remove and select Delete Account.</li>
+	</ol>
+</add_email>
+<change_settings><h2>Changing your email account settings</h2>
+	<ol><li>Go to Start, and select Mail.</li>
+	<li> 	In the lower-left corner, select Settings. </li>
+	<li>Select Accounts and choose the account that you want to change.
+Settings appear in a window along the right edge. In Settings, you can do things like your change your email password, choose how much email to download, or set up an email signature. </li>
+	<li>Change the settings you want and select Save.</li>
+	<li>For more info about Mail app settings, see <a href="https://www.microsoft.com/surface/en-us/support/email-and-communication/troubleshoot-mail?os=windows-10">Troubleshoot email</a>.</li>
+	</ol>
+</change_settings>
+<managing_messages><h2>	Use the Mail app to manage messages</h2>
+The Mail app has three panes:
+	<ul><li>The left pane shows you your email folders and accounts. Select a folder or account to switch to it. </li>
+	<li>The middle pane shows you messages for the selected email account. </li>
+	<li>The right pane is the reading pane, showing you the content of the selected email message. </li></ul>
+	Here’s how to get things done in the Mail app:
+	<table>
+	<tr><th>Task</th>
+	<th>What to do</th></tr>
+	<tr><td>Reply, Reply all, or Forward</td>
+	<td>Select a message and select Reply, Reply all, or Forward at the top of the Mail app window.</td></tr>
+	<tr><td>Delete messages</td>
+	<td>Swipe from right to left across each message you want to delete.
+
+Or, select one or more messages and select Delete at the top of the Mail app window.</td></tr>
+	<tr><td>Search for messages</td>
+	<td>Select Search Search icon at the top of the Mail app window. In the search box, enter what you want to find—someone’s name or text from an email message—and press Enter (or select the Search icon) to search.</td></tr>
+	<tr><td>Email notifications</td>
+	<td>New email notifications appear in the Action center. To change Action center settings, see <a href="http://windows.microsoft.com/en-us/windows-10/getstarted-a-new-look-for-settings">Personalization and settings</a>.</td></tr>
+	<tr><td>Sync email</td>
+	<td>To sync your email manually, select Sync Sync icon next to the account name in the left pane. By default, the Mail app downloads new email as it arrives. To change how often and how much email the app downloads, select Settings >Accounts and select the account you want to change.</td></tr>
+	<tr><td>Send an attachment</td>
+	<td>In a new email message, select Insert at the top and select Attach File. Select the files you want to add to the message and select Open.</td></tr>
+	<tr><td>Add a contact</td>
+	<td>Select an email address in a message and select Open Contact to open the People app. Select the Save icon in the upper-right corner. </td></tr>
+	</table>
+</managing_messages>
+<related_topics><h2>Related topics</h2>
+<ul><li><a href="https://www.microsoft.com/surface/en-us/support/email-and-communication/troubleshoot-mail">Troubleshoot email</a></li>
+<li><a href="http://windows.microsoft.com/en-us/windows-10/getstarted-a-new-look-for-settings">Personalization and settings</a></li>
+<li><a href="https://www.microsoft.com/surface/en-us/support/apps-and-windows-store/install-and-uninstall-apps">Install and uninstall apps on Surface</a></li>
+<li><a href="http://office.microsoft.com/en-us/outlook-help/change-email-account-settings-HA102809384.aspx?CTT=1">Change email account settings</a></li>
+</ul>
+</related_topics>
+	
+</article>
