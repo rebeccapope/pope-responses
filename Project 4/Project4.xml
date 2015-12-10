@@ -1,0 +1,903 @@
+<?xml version="1.0"?>
+<?xml-stylesheet href="yarn.xsl" type="text/xsl" ?>
+<yarn_stash>
+<yarn>
+	<yarn_brand>Red Heart</yarn_brand>
+	<yarn_name>Unforgettable</yarn_name>
+	<colors>
+		<color>Dragonfly</color>
+		<color>blue</color> 
+		<color>green</color>
+		<color>purple</color>
+	</colors>
+	<picture>Pictures/UnforgettableDragonfly.JPG</picture>
+	<length>280 </length>
+	<thickness>4-Medium</thickness>
+	<projects>
+		<project_type>cowl</project_type>
+		<project_type>mittens</project_type>
+		<project_type>scarf</project_type>
+		<project_type>sweater</project_type>
+		<project_type>hat</project_type>
+		<project_type>outerwear</project_type>
+	</projects>	
+	<fiber>acrylic</fiber>
+	<washing_instructions>Machine wash cold, gentle cycle</washing_instructions>
+</yarn>
+
+<yarn>
+	<yarn_brand>Red Heart</yarn_brand>
+	<yarn_name>Unforgettable</yarn_name>
+	<colors>
+		<color>Polo</color>
+		<color>red</color>
+		<color>green</color>
+		<color>gold</color>
+		<color>jewel</color>
+		<color>orange</color>
+		<color>yellow</color>
+		<color>purple</color>
+	</colors>
+	<picture>Pictures/UnforgettablePolo.JPG</picture>
+	<length>280 </length>
+	<thickness>4-Medium</thickness>
+	<projects>
+		<project_type>cowl</project_type>
+		<project_type>mittens</project_type>
+		<project_type>scarf</project_type>
+		<project_type>sweater</project_type>
+		<project_type>hat</project_type>
+		<project_type>outerwear</project_type>
+	</projects>	
+	<fiber>acrylic</fiber>
+	<washing_instructions>Machine wash cold, gentle cycle</washing_instructions>
+</yarn>
+<yarn>
+	<yarn_brand>Red Heart</yarn_brand>
+	<yarn_name>Unforgettable</yarn_name>
+	<colors>
+		<color>Stained Glass</color>
+		<color>purple</color>
+		<color>pink</color>
+		<color>yellow</color>
+		<color>green</color>
+		<color>blue</color>
+	</colors>
+	<picture>Pictures/UnforgettableStainedGlass.JPG</picture>
+	<length>280 </length>
+	<thickness>4-Medium</thickness>
+	<projects>
+		<project_type>cowl</project_type>
+		<project_type>mittens</project_type>
+		<project_type>scarf</project_type>
+		<project_type>sweater</project_type>
+		<project_type>hat</project_type>
+		<project_type>outerwear</project_type>
+	</projects>	
+	<fiber>acrylic</fiber>
+	<washing_instructions>Machine wash cold, gentle cycle</washing_instructions>
+</yarn>
+<yarn>
+	<yarn_brand>Brown Sheep</yarn_brand>
+	<yarn_name>Lamb's Pride Bulky</yarn_name>
+	<colors>
+		<color>Jaded dreams</color>
+		<color>blue green</color>
+	</colors>
+	<picture>Pictures/LPTeal.JPG</picture>
+	<length>750 </length>
+	<thickness>6-Super bulky</thickness>
+	<projects>
+		<project_type>sweater</project_type>
+		<project_type>hat</project_type>
+		<project_type>mittens</project_type>
+		<project_type>slippers</project_type>
+		<project_type>vest</project_type>
+		<project_type>outerwear</project_type>
+		<project_type>scarf</project_type>
+	</projects>
+	<fiber>wool mohair</fiber>
+	<washing_instructions>Hand wash cold, lay flat</washing_instructions>
+	<pattern>
+	<pattern_url><description>
+	Fairly Easy Fair Isle in <i>Stitch 'N Bitch Nation</i></description>
+	<url>http://www.ravelry.com/patterns/library/fairly-easy-fair-isle</url>
+	</pattern_url>
+	</pattern>
+</yarn>
+<yarn>
+	<yarn_brand>Red Heart</yarn_brand>
+	<yarn_name>Super Saver</yarn_name>
+	<colors>
+		<color>gray</color>
+	</colors>
+	<picture>Pictures/RHSSgray.JPG</picture>
+	<length>708 </length>
+	<thickness>4-Medium</thickness>
+	<projects>
+		<project_type>outerwear</project_type>
+		<project_type>blanket</project_type>
+		<project_type>pets</project_type>
+		<project_type>scarf</project_type>
+		<project_type>vest</project_type>
+		<project_type>hat</project_type>
+		<project_type>slippers</project_type>
+		<project_type>household items</project_type>
+	</projects>
+	<fiber>acrylic</fiber>
+	<washing_instructions>Machine wash warm</washing_instructions>
+	<pattern>
+	<pattern_url><description>
+	Casey's (dog) Coat in Stitch 'N Bitch Nation</description>
+	<url>http://www.ravelry.com/patterns/library/caseys-coat</url>
+	</pattern_url>
+	</pattern>
+</yarn>
+<yarn>
+	<yarn_brand>Red Heart</yarn_brand>
+	<yarn_name>Super Saver</yarn_name>
+	<colors>
+		<color>white</color>
+	</colors>
+	<picture>Pictures/RHSSwhite.JPG</picture>
+	<length>364 </length>
+	<thickness>4-Medium</thickness>
+	<projects>
+		<project_type>outerwear</project_type>
+		<project_type>blanket</project_type>
+		<project_type>pets</project_type>
+		<project_type>scarf</project_type>
+		<project_type>vest</project_type>
+		<project_type>hat</project_type>
+		<project_type>slippers</project_type>
+		<project_type>household items</project_type>
+	</projects>
+	<fiber>acrylic</fiber>
+	<washing_instructions>Machine wash warm</washing_instructions>
+	<pattern>
+	<pattern_url><description>
+	Casey's (dog) Coat in Stitch 'N Bitch Nation</description>
+	<url>http://www.ravelry.com/patterns/library/caseys-coat</url>
+	</pattern_url>
+	</pattern>
+</yarn>
+<yarn>
+	<yarn_brand>Two if by Hand</yarn_brand>
+	<yarn_name>None</yarn_name>
+	<colors>
+		<color>Deep Ocean</color>
+		<color>blue</color>
+		<color>varigated</color>
+	</colors>
+	<picture>Pictures/TwobyHandBlue.JPG</picture>
+	<length>180 </length>
+	<thickness>4-Medium</thickness>
+	<projects>
+		<project_type>hat</project_type>
+		<project_type>scarf</project_type>
+		<project_type>slippers</project_type>
+		<project_type>cowl</project_type>
+	</projects>
+	<fiber>SW Merino</fiber>
+	<washing_instructions>hand wash cold</washing_instructions>
+</yarn>
+<yarn>
+	<yarn_brand>Lang Yarns</yarn_brand>
+	<yarn_name>Ja Woll Color</yarn_name>
+	<colors>
+		<color>pink</color>
+		<color>orange</color>
+		<color>green</color>
+		<color>blue</color>
+		<color>purple</color>
+	</colors>
+	<picture>Pictures/JaWoll.JPG</picture>
+	<length>455 </length>
+	<thickness>1-Fingering</thickness>
+	<projects>
+		<project_type>socks</project_type>
+		<project_type>shawl</project_type>
+	</projects>
+	<fiber>75% wool 25% nylon</fiber>
+	<washing_instructions>machine wash cold</washing_instructions>
+</yarn>
+<yarn>
+	<yarn_brand>Cascade Yarns</yarn_brand>
+	<yarn_name>Sunseeker</yarn_name>
+	<colors>
+		<color>nautical blue</color>
+		<color>blue</color>
+		<color>sparkle</color>
+	</colors>
+	<picture>Pictures/Sunseeker.JPG</picture>
+	<length>948 </length>
+	<thickness>3-Light</thickness>
+	<projects>
+		<project_type>tank top</project_type>
+		<project_type>shawl</project_type>
+		<project_type>accessory</project_type>
+		<project_type>scarf</project_type>
+		<project_type>poncho</project_type>
+	</projects>
+	<fiber>47% cotton 48% acrylic 5% metallic</fiber>
+	<washing_instructions>machine wash cold</washing_instructions>
+	<pattern>
+	<pattern_url><description>
+	Lace Shell from Cascade Yarns website</description>
+	<url>http://www.cascadeyarns.com/patternsFree/DK300_SunseekerLaceShell.pdf</url>
+	</pattern_url>
+	</pattern>
+</yarn>
+<yarn>
+	<yarn_brand>Western Sky Knits</yarn_brand>
+	<yarn_name>Twinkle Sock</yarn_name>
+	<colors>
+		<color>Celestia</color>
+		<color>sparkle</color>
+		<color>black</color>
+		<color>teal</color>
+		<color>purple</color>
+		<color>blue</color>
+		<color>gray</color>
+	</colors>
+	<picture>Pictures/WSKtwinkle.JPG</picture>
+	<length>438 </length>
+	<thickness>1-Fingering</thickness>
+	<projects>
+		<project_type>socks</project_type>
+		<project_type>shawl</project_type>
+	</projects>
+	<fiber>75% SW Merino 20% nylon 5% Stellina</fiber>
+	<washing_instructions>Machine wash cold gentle cycle</washing_instructions>
+</yarn>
+<yarn>
+	<yarn_brand>Two if by Hand</yarn_brand>
+	<yarn_name>None</yarn_name>
+	<colors>
+		<color>pink</color>
+		<color>teal</color>
+		<color>orange</color>
+		<color>purple</color>
+		<color>Muertos</color>
+	</colors>
+	<picture>Pictures/TwobyHandMuertos.JPG</picture>
+	<length>180 </length>
+	<thickness>4-Medium</thickness>
+	<projects>
+		<project_type>hat</project_type>
+		<project_type>scarf</project_type>
+		<project_type>slippers</project_type>
+		<project_type>cowl</project_type>
+	</projects>
+	<fiber>SW Merino</fiber>
+	<washing_instructions>hand wash cold</washing_instructions>
+</yarn>
+<yarn>
+	<yarn_brand>Berroco</yarn_brand>
+	<yarn_name>Weekend DK</yarn_name>
+	<colors>
+		<color>green</color>
+		<color>Taffy</color>
+	</colors>
+	<picture>Pictures/WeekendDKTaffy.JPG</picture>
+	<length>1072</length>
+	<thickness>3-Light</thickness>
+	<projects>
+		<project_type>tank top</project_type>
+		<project_type>shawl</project_type>
+		<project_type>accessory</project_type>
+		<project_type>scarf</project_type>
+		<project_type>poncho</project_type>
+		<project_type>baby</project_type>
+	</projects>
+	<fiber>75% acrylic 25% cotton</fiber>
+	<washing_instructions>machine wash cold gentle cycle</washing_instructions>
+	<pattern>
+	<pattern_url><description>
+	Mudflap Girl Tank Top in Stitch 'N Bitch Nation</description>
+	<url>http://www.ravelry.com/patterns/library/mud-flap-girl-tank-top</url>
+	</pattern_url> 
+	<pattern_url><description> with Dead Kitty Skull chart</description>
+	<url>dead_kitty_skull_chart.pdf</url>
+	</pattern_url>
+	</pattern>
+	
+</yarn>
+<yarn>
+	<yarn_brand>Berroco</yarn_brand>
+	<yarn_name>Weekend DK</yarn_name>
+	<colors>
+		<color>purple</color>
+		<color>Lilac</color>
+	</colors>
+	<picture>Pictures/WeekendDKLilac.JPG</picture>
+	<length>268 </length>
+	<thickness>3-Light</thickness>
+	<projects>
+		<project_type>tank top</project_type>
+		<project_type>shawl</project_type>
+		<project_type>accessory</project_type>
+		<project_type>scarf</project_type>
+		<project_type>poncho</project_type>
+		<project_type>baby</project_type>
+	</projects>
+	<fiber>75% acrylic 25% cotton</fiber>
+	<washing_instructions>machine wash cold gentle cycle</washing_instructions>
+	<pattern>
+	<pattern_url><description>
+	Mudflap Girl Tank Top in Stitch 'N Bitch Nation</description>
+	<url>http://www.ravelry.com/patterns/library/mud-flap-girl-tank-top</url>
+	</pattern_url>
+	<pattern_url><description> with Dead Kitty Skull chart</description>
+	<url>dead_kitty_skull_chart.pdf</url>
+	</pattern_url>
+	</pattern>
+</yarn>
+<yarn>
+	<yarn_brand>Berroco</yarn_brand>
+	<yarn_name>Vintage</yarn_name>
+	<colors>
+		<color>Delphinium</color>
+		<color>purple</color>
+	</colors>
+	<picture>Pictures/Vintage.JPG</picture>
+	<length>434 </length>
+	<thickness>4-Medium</thickness>
+	<projects>
+		<project_type>scarf</project_type>
+		<project_type>hat</project_type>
+		<project_type>sweater</project_type>
+		<project_type>vest</project_type>
+		<project_type>cowl</project_type>
+		<project_type>shawl</project_type>
+		<project_type>outerwear</project_type>
+	</projects>
+	<fiber>50% acrylic 40% wool 10% nylon</fiber>
+	<washing_instructions>machine wash cold gentle cycle</washing_instructions>
+</yarn>
+<yarn>
+	<yarn_brand>Cascade Yarns</yarn_brand>
+	<yarn_name>Pluscious</yarn_name>
+	<colors>
+		<color>Daffodil</color>
+		<color>yellow</color>
+		<color>green</color>
+		<color>pastel</color>
+	</colors>
+	<picture>Pictures/PlushDaffodil.JPG</picture>
+	<length>148 </length>
+	<thickness>5-Bulky</thickness>
+	<projects>
+		<project_type>baby</project_type>
+		<project_type>toy</project_type>
+		<project_type>accessory</project_type>
+		<project_type>hat</project_type>
+		<project_type>scarf</project_type>
+	</projects>
+	<fiber>Polyester</fiber>
+	<washing_instructions>machine wash cold</washing_instructions>
+	<pattern>
+	<pattern_url><description>Lamby from Cascade Yarns website</description>
+	<url>http://www.cascadeyarns.com/patternsFree/C251_PlusciousLamby.pdf</url>
+	</pattern_url>
+	</pattern>
+</yarn>
+<yarn>
+	<yarn_brand>Cascade Yarns</yarn_brand>
+	<yarn_name>Pluscious</yarn_name>
+	<colors>
+		<color>Blue and Green</color>
+		<color>blue</color>
+		<color>green</color>
+	</colors>
+	<picture>Pictures/PlushBluenGreen.JPG</picture>
+	<length>148 </length>
+	<thickness>5-Bulky</thickness>
+	<projects>
+		<project_type>baby</project_type>
+		<project_type>toy</project_type>
+		<project_type>accessory</project_type>
+		<project_type>hat</project_type>
+		<project_type>scarf</project_type>
+	</projects>
+	<fiber>Polyester</fiber>
+	<washing_instructions>machine wash cold</washing_instructions>
+	<pattern>
+	<pattern_url><description>Easy Lacy Scarf from Cascade Yarns website</description>
+	<url>http://www.cascadeyarns.com/patternsFree/C240_PlusciousEasyLacyScarf.pdf</url>
+	</pattern_url>
+	</pattern>
+</yarn>
+<yarn>
+	<yarn_brand>Cascade Yarns</yarn_brand>
+	<yarn_name>Pluscious</yarn_name>
+	<colors>
+		<color>Spring Mix</color>
+		<color>yellow</color>
+		<color>white</color>
+		<color>orange</color>
+	</colors>
+	<picture>Pictures/PlushSpringMix.JPG</picture>
+	<length>148 </length>
+	<thickness>5-Bulky</thickness>
+	<projects>
+		<project_type>baby</project_type>
+		<project_type>toy</project_type>
+		<project_type>accessory</project_type>
+		<project_type>hat</project_type>
+		<project_type>scarf</project_type>
+	</projects>
+	<fiber>Polyester</fiber>
+	<washing_instructions>machine wash cold</washing_instructions>
+	<pattern>
+	<pattern_url><description>Easy Lacy Scarf from Cascade Yarns website</description>
+	<url>http://www.cascadeyarns.com/patternsFree/C240_PlusciousEasyLacyScarf.pdf</url>
+	</pattern_url>
+	</pattern>
+</yarn>
+<yarn>
+	<yarn_brand>Cascade Yarns</yarn_brand>
+	<yarn_name>Pluscious</yarn_name>
+	<colors>
+		<color>Bluebell</color>
+		<color>blue</color>
+		<color>white</color>
+		<color>varigated</color>
+	</colors>
+	<picture>Pictures/PlushBluebell.JPG</picture>
+	<length>148 </length>
+	<thickness>5-Bulky</thickness>
+	<projects>
+		<project_type>baby</project_type>
+		<project_type>toy</project_type>
+		<project_type>accessory</project_type>
+		<project_type>hat</project_type>
+		<project_type>scarf</project_type>
+	</projects>
+	<fiber>Polyester</fiber>
+	<washing_instructions>machine wash cold</washing_instructions>
+	<pattern>
+	<pattern_url><description>Easy Lacy Scarf from Cascade Yarns website</description>
+	<url>http://www.cascadeyarns.com/patternsFree/C240_PlusciousEasyLacyScarf.pdf</url>
+	</pattern_url>
+	</pattern>
+</yarn>
+<yarn>
+	<yarn_brand>Cascade Yarns</yarn_brand>
+	<yarn_name>Pluscious</yarn_name>
+	<colors>
+		<color>Open Seas</color>
+		<color>blue</color>
+		<color>green</color>
+		<color>teal</color>
+	</colors>
+	<picture>Pictures/PlushOpenSeas.JPG</picture>
+	<length>148 </length>
+	<thickness>5-Bulky</thickness>
+	<projects>
+		<project_type>baby</project_type>
+		<project_type>toy</project_type>
+		<project_type>accessory</project_type>
+		<project_type>hat</project_type>
+		<project_type>scarf</project_type>
+	</projects>
+	<fiber>Polyester</fiber>
+	<washing_instructions>machine wash cold</washing_instructions>
+	<pattern>
+	<pattern_url><description>Easy Lacy Scarf from Cascade Yarns website</description>
+	<url>http://www.cascadeyarns.com/patternsFree/C240_PlusciousEasyLacyScarf.pdf</url>
+	</pattern_url>
+	</pattern>
+</yarn>
+<yarn>
+	<yarn_brand>Cascade Yarns</yarn_brand>
+	<yarn_name>Pluscious</yarn_name>
+	<colors>
+		<color>Seascape</color>
+		<color>blue</color>
+		<color>green</color>
+		<color>pastel</color>
+	</colors>
+	<picture>Pictures/PlushSeascape.JPG</picture>
+	<length>148 </length>
+	<thickness>5-Bulky</thickness>
+	<projects>
+		<project_type>baby</project_type>
+		<project_type>toy</project_type>
+		<project_type>accessory</project_type>
+		<project_type>hat</project_type>
+		<project_type>scarf</project_type>
+	</projects>
+	<fiber>Polyester</fiber>
+	<washing_instructions>machine wash cold</washing_instructions>
+	<pattern>
+	<pattern_url><description>Lamby from Cascade Yarns website</description>
+	<url>http://www.cascadeyarns.com/patternsFree/C251_PlusciousLamby.pdf</url>
+	</pattern_url>
+	</pattern>
+</yarn>	
+<yarn>
+	<yarn_brand>Cascade Yarns</yarn_brand>
+	<yarn_name>Pluscious</yarn_name>
+	<colors>
+		<color>Zebra</color>
+		<color>black</color>
+		<color>white</color>
+		<color>gray</color>
+	</colors>
+	<picture>Pictures/PlushZebra.JPG</picture>
+	<length>75 </length>
+	<thickness>5-Bulky</thickness>
+	<projects>
+		<project_type>baby</project_type>
+		<project_type>toy</project_type>
+		<project_type>accessory</project_type>
+		<project_type>hat</project_type>
+		<project_type>scarf</project_type>
+	</projects>
+	<fiber>Polyester</fiber>
+	<washing_instructions>machine wash cold</washing_instructions>
+	<pattern>
+	<pattern_url><description>Easy Lacy Scarf from Cascade Yarns website</description>
+	<url>http://www.cascadeyarns.com/patternsFree/C240_PlusciousEasyLacyScarf.pdf</url>
+	</pattern_url>
+	</pattern>
+</yarn>
+<yarn>
+	<yarn_brand>Cascade Yarns</yarn_brand>
+	<yarn_name>Pluscious</yarn_name>
+	<colors>
+		<color>Rainbow</color>
+		<color>yellow</color>
+		<color>green</color>
+		<color>pastel</color>
+		<color>pink</color>
+		<color>orange</color>
+		<color>blue</color>
+	</colors>
+	<picture>Pictures/PlushRainbow.JPG</picture>
+	<length>148 </length>
+	<thickness>5-Bulky</thickness>
+	<projects>
+		<project_type>baby</project_type>
+		<project_type>toy</project_type>
+		<project_type>accessory</project_type>
+		<project_type>hat</project_type>
+		<project_type>scarf</project_type>
+	</projects>
+	<fiber>Polyester</fiber>
+	<washing_instructions>machine wash cold</washing_instructions>
+	<pattern>
+	<pattern_url><description>Lamby from Cascade Yarns website</description>
+	<url>http://www.cascadeyarns.com/patternsFree/C251_PlusciousLamby.pdf</url>
+	</pattern_url>
+	</pattern>
+</yarn>
+<yarn>
+	<yarn_brand>Brown Sheep</yarn_brand>
+	<yarn_name>Lamb's Pride Bulky</yarn_name>
+	<colors>
+		<color>Seafoam</color>
+		<color>green</color>
+	</colors>
+	<picture>Pictures/LPseafoam.JPG</picture>
+	<length>125 </length>
+	<thickness>6-Super bulky</thickness>
+	<projects>
+		<project_type>sweater</project_type>
+		<project_type>hat</project_type>
+		<project_type>mittens</project_type>
+		<project_type>slippers</project_type>
+		<project_type>vest</project_type>
+		<project_type>outerwear</project_type>
+		<project_type>scarf</project_type>
+	</projects>
+	<fiber>wool mohair</fiber>
+	<washing_instructions>Hand wash cold, lay flat</washing_instructions>
+	<pattern>
+	<pattern_url><description>
+	Fairly Easy Fair Isle in Stitch 'N Bitch Nation</description>
+	<url>http://www.ravelry.com/patterns/library/fairly-easy-fair-isle</url>
+	</pattern_url>
+	</pattern>
+</yarn>
+<yarn>
+	<yarn_brand>Brown Sheep</yarn_brand>
+	<yarn_name>Lamb's Pride Bulky</yarn_name>
+	<colors>
+		<color>Royal Purple Flutter</color>
+		<color>purple</color>
+		<color>varigated</color>
+	</colors>
+	<picture>Pictures/LPpurple.JPG</picture>
+	<length>120 </length>
+	<thickness>6-Super bulky</thickness>
+	<projects>
+		<project_type>sweater</project_type>
+		<project_type>hat</project_type>
+		<project_type>mittens</project_type>
+		<project_type>slippers</project_type>
+		<project_type>vest</project_type>
+		<project_type>outerwear</project_type>
+		<project_type>scarf</project_type>
+	</projects>
+	<fiber>wool mohair</fiber>
+	<washing_instructions>Hand wash cold, lay flat</washing_instructions>
+	<pattern>
+	<pattern_url><description>
+	Fairly Easy Fair Isle in Stitch 'N Bitch Nation</description>
+	<url>http://www.ravelry.com/patterns/library/fairly-easy-fair-isle</url>
+	</pattern_url>
+	</pattern>
+</yarn>
+<yarn>
+	<yarn_brand>Brown Sheep</yarn_brand>
+	<yarn_name>Lamb's Pride Worsted</yarn_name>
+	<colors>
+		<color>Red Hot Passion</color>
+		<color>red</color>
+	</colors>
+	<picture>Pictures/LPworstedRed.JPG</picture>
+	<length>190 </length>
+	<thickness>4-Medium</thickness>
+	<projects>
+		<project_type>sweater</project_type>
+		<project_type>hat</project_type>
+		<project_type>mittens</project_type>
+		<project_type>slippers</project_type>
+		<project_type>vest</project_type>
+		<project_type>outerwear</project_type>
+		<project_type>scarf</project_type>
+	</projects>
+	<fiber>wool mohair</fiber>
+	<washing_instructions>Hand wash cold, lay flat</washing_instructions>
+</yarn>
+<yarn>
+	<yarn_brand>Rowan</yarn_brand>
+	<yarn_name>Cocoon</yarn_name>
+	<colors>
+		<color>Polar</color>
+		<color>white</color>
+	</colors>
+	<picture>Pictures/Rowan.JPG</picture>
+	<length>126 </length>
+	<thickness>6-Super bulky</thickness>
+	<projects>
+		<project_type>sweater</project_type>
+		<project_type>hat</project_type>
+		<project_type>mittens</project_type>
+		<project_type>slippers</project_type>
+		<project_type>vest</project_type>
+		<project_type>outerwear</project_type>
+		<project_type>scarf</project_type>
+	</projects>
+	<fiber>wool mohair</fiber>
+	<washing_instructions>Hand wash cold, lay flat</washing_instructions>
+	<pattern>
+	<pattern_url><description>
+	Fairly Easy Fair Isle in Stitch 'N Bitch Nation</description>
+	<url>http://www.ravelry.com/patterns/library/fairly-easy-fair-isle</url>
+	</pattern_url>
+	</pattern>
+</yarn>
+<yarn>
+	<yarn_brand>Red Heart</yarn_brand>
+	<yarn_name>Sport</yarn_name>
+	<colors>
+		<color>white</color>
+	</colors>
+	<picture>Pictures/RHsportWhite.JPG</picture>
+	<length>165 </length>
+	<thickness>3-Light</thickness>
+	<projects>
+		<project_type>outerwear</project_type>
+		<project_type>blanket</project_type>
+		<project_type>pets</project_type>
+		<project_type>scarf</project_type>
+		<project_type>vest</project_type>
+		<project_type>hat</project_type>
+		<project_type>slippers</project_type>
+		<project_type>household items</project_type>
+	</projects>
+	<fiber>acrylic</fiber>
+	<washing_instructions>Machine wash warm</washing_instructions>
+	<pattern>
+	<pattern_url><description>
+	Headless Horseman and Hades in Super Scary Crochet</description>
+	<url>http://www.ravelry.com/patterns/sources/super-scary-crochet</url>
+	</pattern_url>
+	</pattern>
+</yarn>
+<yarn>
+	<yarn_brand>Red Heart</yarn_brand>
+	<yarn_name>Sport</yarn_name>
+	<colors>
+		<color>Paddy green</color>
+		<color>green</color>
+	</colors>
+	<picture>Pictures/RHsportGreen.JPG</picture>
+	<length>165 </length>
+	<thickness>3-Light</thickness>
+	<projects>
+		<project_type>outerwear</project_type>
+		<project_type>blanket</project_type>
+		<project_type>pets</project_type>
+		<project_type>scarf</project_type>
+		<project_type>vest</project_type>
+		<project_type>hat</project_type>
+		<project_type>slippers</project_type>
+		<project_type>household items</project_type>
+	</projects>
+	<fiber>acrylic</fiber>
+	<washing_instructions>Machine wash warm</washing_instructions>
+	<pattern>
+	<pattern_url><description>
+	Headless Horseman and Hades in Super Scary Crochet</description>
+	<url>http://www.ravelry.com/patterns/sources/super-scary-crochet</url>
+	</pattern_url>
+	</pattern>
+</yarn>
+<yarn>
+	<yarn_brand>Red Heart</yarn_brand>
+	<yarn_name>Sport</yarn_name>
+	<colors>
+		<color>black</color>
+	</colors>
+	<picture>Pictures/RHsportBlack.JPG</picture>
+	<length>330 </length>
+	<thickness>3-Light</thickness>
+	<projects>
+		<project_type>outerwear</project_type>
+		<project_type>blanket</project_type>
+		<project_type>pets</project_type>
+		<project_type>scarf</project_type>
+		<project_type>vest</project_type>
+		<project_type>hat</project_type>
+		<project_type>slippers</project_type>
+		<project_type>household items</project_type>
+	</projects>
+	<fiber>acrylic</fiber>
+	<washing_instructions>Machine wash warm</washing_instructions>
+	<pattern>
+	<pattern_url><description>
+	Headless Horseman and Hades in Super Scary Crochet</description>
+	<url>http://www.ravelry.com/patterns/sources/super-scary-crochet</url>
+	</pattern_url>
+	</pattern>
+</yarn>
+<yarn>
+	<yarn_brand>Red Heart</yarn_brand>
+	<yarn_name>Sport</yarn_name>
+	<colors>
+		<color>Jockey red</color>
+		<color>red</color>
+	</colors>
+	<picture>Pictures/RHsportRed.JPG</picture>
+	<length>165 </length>
+	<thickness>3-Light</thickness>
+	<projects>
+		<project_type>outerwear</project_type>
+		<project_type>blanket</project_type>
+		<project_type>pets</project_type>
+		<project_type>scarf</project_type>
+		<project_type>vest</project_type>
+		<project_type>hat</project_type>
+		<project_type>slippers</project_type>
+		<project_type>household items</project_type>
+	</projects>
+	<fiber>acrylic</fiber>
+	<washing_instructions>Machine wash warm</washing_instructions>
+	<pattern>
+	<pattern_url><description>
+	Headless Horseman and Hades in Super Scary Crochet</description>
+	<url>http://www.ravelry.com/patterns/sources/super-scary-crochet</url>
+	</pattern_url>
+	</pattern>
+</yarn>
+<yarn>
+	<yarn_brand>Red Heart</yarn_brand>
+	<yarn_name>Sport</yarn_name>
+	<colors>
+		<color>Pumpkin</color>
+		<color>orange</color>
+	</colors>
+	<picture>Pictures/RHsportOrange.JPG</picture>
+	<length>165 </length>
+	<thickness>3-Light</thickness>
+	<projects>
+		<project_type>outerwear</project_type>
+		<project_type>blanket</project_type>
+		<project_type>pets</project_type>
+		<project_type>scarf</project_type>
+		<project_type>vest</project_type>
+		<project_type>hat</project_type>
+		<project_type>slippers</project_type>
+		<project_type>household items</project_type>
+	</projects>
+	<fiber>acrylic</fiber>
+	<washing_instructions>Machine wash warm</washing_instructions>
+	<pattern>
+	<pattern_url><description>
+	Headless Horseman and Hades in Super Scary Crochet</description>
+	<url>http://www.ravelry.com/patterns/sources/super-scary-crochet</url>
+	</pattern_url>
+	</pattern>
+</yarn>
+<yarn>
+	<yarn_brand>Red Heart</yarn_brand>
+	<yarn_name>Super Saver</yarn_name>
+	<colors>
+		<color>Bonbon print</color>
+		<color>blue</color>
+		<color>pink</color>
+		<color>purple</color>
+		<color>varigated</color>
+	</colors>
+	<picture>Pictures/bonbon.JPG</picture>
+	<length>236 </length>
+	<thickness>4-Medium</thickness>
+	<projects>
+		<project_type>outerwear</project_type>
+		<project_type>blanket</project_type>
+		<project_type>pets</project_type>
+		<project_type>scarf</project_type>
+		<project_type>vest</project_type>
+		<project_type>hat</project_type>
+		<project_type>slippers</project_type>
+		<project_type>household items</project_type>
+	</projects>
+	<fiber>acrylic</fiber>
+	<washing_instructions>Machine wash warm</washing_instructions>
+</yarn>
+<yarn>
+	<yarn_brand>Louet</yarn_brand>
+	<yarn_name>KidLin</yarn_name>
+	<colors>
+		<color>Spanish Blue</color>
+		<color>blue</color>
+	</colors>
+	
+	<length>750 </length>
+	<thickness>0-Lace</thickness>
+	<projects>
+		<project_type>sweater</project_type>
+		<project_type>shawl</project_type>
+		<project_type>scarf</project_type>
+		<project_type>outerwear</project_type>
+	</projects>
+	<fiber>Linen mohair nylon</fiber>
+	<washing_instructions>Hand wash cold</washing_instructions>
+	<pattern>
+	<pattern_url><description>
+	The Swindle in Pretty in Punk: 25 Punk, Rock, and Goth Knitting Projects</description>
+	<url>http://www.ravelry.com/patterns/library/the-swindle</url>
+	</pattern_url>
+	</pattern>
+	<picture>Pictures/KidLinBlue.JPG</picture>
+</yarn>
+<yarn>
+	<yarn_brand>Louet</yarn_brand>
+	<yarn_name>KidLin</yarn_name>
+	<colors>
+		<color>black</color>
+	</colors>
+	
+	<length>750 </length>
+	<thickness>0-Lace</thickness>
+	<projects>
+		<project_type>sweater</project_type>
+		<project_type>shawl</project_type>
+		<project_type>scarf</project_type>
+		<project_type>outerwear</project_type>
+	</projects>
+	<fiber>Linen mohair nylon</fiber>
+	<washing_instructions>Hand wash cold</washing_instructions>
+	<pattern>
+	<pattern_url><description>
+	The Swindle in Pretty in Punk: 25 Punk, Rock, and Goth Knitting Projects</description>
+	<url>http://www.ravelry.com/patterns/library/the-swindle</url>
+	</pattern_url>
+	</pattern>
+	<picture>Pictures/KidLinBlack.JPG</picture>
+</yarn>
+</yarn_stash>	

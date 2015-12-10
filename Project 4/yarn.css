@@ -1,0 +1,32 @@
+/* Global Styles */
+body {background-image: url("Pictures/gradient_large.png");
+		background-repeat: no-repeat;
+		background-position: left top;
+		background-attachment: fixed} 
+table {border-collapse: collapse}
+p {font-size: 16px;
+	font-family: Bookman Old Style;}	
+	a {color: black}	
+h1 {font-size: 60px;
+	font-family: Century Gothic;
+	text-align: center;
+	color: #ffffff}	
+th {font-size: 20px;
+	font-family: Century Gothic;
+	text-align: left;
+	background-color: #ff6600;
+	color: white;
+	border: none;
+
+	padding: 3px 6px 3px 6px}
+td {font-size: 16px;
+	font-family: Bookman Old Style;
+	border: none;
+	padding: 3px 6px 3px 6px}
+img {height: 200px;
+	width: auto;
+	padding: 3px 6px 3px 6px}	
+
+	
+tr:nth-child(even) {background-color: white}
+tr:nth-child(odd) {background-color: #ffe5cc}
